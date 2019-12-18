@@ -8,6 +8,7 @@ import (
 	_ "github.com/manelmontilla/goa-cellar/design"
 	. "github.com/manelmontilla/goa/design"
 	. "github.com/manelmontilla/goa/design/apidsl"
+
 	"github.com/manelmontilla/goa/dslengine"
 	genschema "github.com/manelmontilla/goa/goagen/gen_schema"
 	genswagger "github.com/manelmontilla/goa/goagen/gen_swagger"
