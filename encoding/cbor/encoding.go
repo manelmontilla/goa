@@ -3,7 +3,7 @@ package cbor
 import (
 	"io"
 
-	"github.com/goadesign/goa"
+	"github.com/manelmontilla/goa"
 	"github.com/ugorji/go/codec"
 )
 

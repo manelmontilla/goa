@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/goadesign/goa"
-	"github.com/goadesign/goa/middleware"
+	"github.com/manelmontilla/goa"
+	"github.com/manelmontilla/goa/middleware"
 )
 
 const (

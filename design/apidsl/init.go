@@ -1,8 +1,8 @@
 package apidsl
 
 import (
-	"github.com/goadesign/goa/design"
-	"github.com/goadesign/goa/dslengine"
+	"github.com/manelmontilla/goa/design"
+	"github.com/manelmontilla/goa/dslengine"
 )
 
 // Setup API DSL roots.

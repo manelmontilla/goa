@@ -11,7 +11,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/goadesign/goa"
+	"github.com/manelmontilla/goa"
 	"github.com/pkg/errors"
 )
 

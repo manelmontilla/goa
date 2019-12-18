@@ -7,12 +7,12 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/goadesign/goa/design"
-	"github.com/goadesign/goa/design/apidsl"
-	"github.com/goadesign/goa/dslengine"
-	"github.com/goadesign/goa/goagen/codegen"
-	genschema "github.com/goadesign/goa/goagen/gen_schema"
-	"github.com/goadesign/goa/version"
+	"github.com/manelmontilla/goa/design"
+	"github.com/manelmontilla/goa/design/apidsl"
+	"github.com/manelmontilla/goa/dslengine"
+	"github.com/manelmontilla/goa/goagen/codegen"
+	genschema "github.com/manelmontilla/goa/goagen/gen_schema"
+	"github.com/manelmontilla/goa/version"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

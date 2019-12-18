@@ -12,7 +12,7 @@ import (
 
 	"context"
 
-	"github.com/goadesign/goa"
+	"github.com/manelmontilla/goa"
 )
 
 type (

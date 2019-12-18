@@ -3,7 +3,7 @@ package genjs
 import (
 	"time"
 
-	"github.com/goadesign/goa/design"
+	"github.com/manelmontilla/goa/design"
 )
 
 //Option a generator option definition

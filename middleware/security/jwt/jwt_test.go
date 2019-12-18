@@ -9,8 +9,8 @@ import (
 	"context"
 
 	jwtpkg "github.com/dgrijalva/jwt-go"
-	"github.com/goadesign/goa"
-	"github.com/goadesign/goa/middleware/security/jwt"
+	"github.com/manelmontilla/goa"
+	"github.com/manelmontilla/goa/middleware/security/jwt"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

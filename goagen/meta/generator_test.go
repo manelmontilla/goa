@@ -7,8 +7,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/goadesign/goa/goagen/codegen"
-	"github.com/goadesign/goa/goagen/meta"
+	"github.com/manelmontilla/goa/goagen/codegen"
+	"github.com/manelmontilla/goa/goagen/meta"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

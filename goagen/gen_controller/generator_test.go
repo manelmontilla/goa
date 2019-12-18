@@ -6,10 +6,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/goadesign/goa/design"
-	"github.com/goadesign/goa/goagen/codegen"
-	gencontroller "github.com/goadesign/goa/goagen/gen_controller"
-	"github.com/goadesign/goa/version"
+	"github.com/manelmontilla/goa/design"
+	"github.com/manelmontilla/goa/goagen/codegen"
+	gencontroller "github.com/manelmontilla/goa/goagen/gen_controller"
+	"github.com/manelmontilla/goa/version"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

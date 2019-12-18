@@ -3,7 +3,7 @@ package codegen
 import (
 	"fmt"
 
-	"github.com/goadesign/goa/design"
+	"github.com/manelmontilla/goa/design"
 )
 
 // ImportSpec defines a generated import statement.

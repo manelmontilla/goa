@@ -8,8 +8,8 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/goadesign/goa/design"
-	"github.com/goadesign/goa/dslengine"
+	"github.com/manelmontilla/goa/design"
+	"github.com/manelmontilla/goa/dslengine"
 )
 
 // TransformMapKey is the name of the metadata used to specify the key for mapping fields when
